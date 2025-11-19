@@ -1,0 +1,15 @@
+{
+    "notebook.output.scrolling": true,
+    "notebook.output.wordWrap": true,
+    "notebook.stickyScroll.enabled": true,
+    "notebook.consolidatedRunButton": true,
+    "anycode.language.features": {
+        "folding": true,
+        "diagnostics": true
+    },
+    "codeswing.showConsole": true,
+    "jupyter.allowUnauthorizedRemoteConnection": true,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "jupyter.interactiveWindow.textEditor.magicCommandsAsComments": true,
+    "jupyter.interactiveWindow.textEditor.normalizeSelection": true
+}
